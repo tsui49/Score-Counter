@@ -1,2 +1,4 @@
-*.csv
-*.json
+/.git
+/.gitignore
+/.vscode
+/SIRS201711381.csv
